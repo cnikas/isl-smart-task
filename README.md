@@ -8,9 +8,9 @@ Where:
     `resources_dir` is the directory containing all required models and files.
 
 Contents of resources dir: 
-    Bert Fine-Tuning category: category classification model folder
-    Bert Fine-Tuning literal: literal type classification model folder
-    Bert Fine-Tuning category: resource type classification model folder
-    mapping.csv: contains mapping of classes to integers
-    dbpedia_hierarchy.json: dbpedia classes with level (depth) and children
-    test.json: contains test questions
+    `Bert Fine-Tuning category`: category classification model folder
+    `Bert Fine-Tuning literal`: literal type classification model folder
+    `Bert Fine-Tuning category`: resource type classification model folder
+    `mapping.csv`: contains mapping of classes to integers
+    `dbpedia_hierarchy.json`: dbpedia classes with level (depth) and children
+    `test.json`: contains test questions

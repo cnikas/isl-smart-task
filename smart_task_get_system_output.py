@@ -134,7 +134,7 @@ def classify_resource(q):
 output_list = []
 
 start = time.time()
-for q in test_set[0:10]:
+for q in test_set:
     if 'question' in q:
         foundCategory = classify_category(q['question'])
         if foundCategory == 'boolean':
