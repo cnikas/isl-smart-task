@@ -1,4 +1,4 @@
-Code to get system output of [our approach]() for SMART Task.
+Code to get system output of [our approach](http://ceur-ws.org/Vol-2774/paper-03.pdf) for [SMART Task](https://smart-task.github.io/).
 Models can be downloaded [here](https://drive.google.com/drive/folders/1TvSJAQQswzmbUAtlCRNvBjgKjYoq344q?usp=sharing)
 
 Usage: 
